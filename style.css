@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: blanchedalmond;
     color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display:flex;
@@ -16,5 +16,5 @@ button{
 }
 
 .passo{
-    display: flex;
+    display: none;
 }
