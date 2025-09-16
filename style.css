@@ -1,6 +1,6 @@
 body {
-    background-color: powderblue;
-    color: black;
+    background-color: black;
+    color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display:flex;
     justify-content: center;
